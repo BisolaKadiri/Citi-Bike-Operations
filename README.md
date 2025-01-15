@@ -74,7 +74,9 @@ Loaded directly to BigQuery.
 
 - City Bike Station Dataset:
 Loaded the JSON file into Google Colab.
-Converted the JSON file into a CSV file using Python:
+Converted the JSON file into a CSV file using Python
+
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/c5a1ff57d2527756cff1d5962473445374bdf0f8/csv.png)
 
 Uploaded the CSV file to BigQuery for integration.
 
