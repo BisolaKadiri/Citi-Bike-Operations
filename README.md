@@ -136,6 +136,9 @@ The dashboard aims to provide insights into the operational performance of New Y
 
 ### Visualization Report:
 
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/6fa00fe53bff1a8917158f0d8fab7e11077872b3/Citi_Bike_Tableau%20Visuals.png)
+
+
 The Dashboard can be accessed through this link: https://public.tableau.com/app/profile/bisola.sobowale/viz/NYC_Citi_BikeAnalysis/Dashboard1?publish=yes 
 
 ## Recommendations
