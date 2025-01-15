@@ -79,17 +79,16 @@ Uploaded the CSV file to BigQuery for integration.
 Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlru9y_0kwxBtqR2S0JrYV8/view?usp=sharing
 
 ### A: Station Performance Analysis
-1.Top 10 Busiest Stations by Trip Count
 
-2.Total Trips Starting at Each Station
+1.Total Trips Starting at Each Station
 
-3.Total Trips Ending at Each Station
+2.Total Trips Ending at Each Station
 
-4.Frequently used stations and how many trip
+3.Frequently used stations and how many trip
 
-5.Average Bike and Dock Availability
+4.Average Bike and Dock Availability
 
-6.Stations with the Highest Proportion of Disabled Bikes and Docks
+5.Stations with the Highest Proportion of Disabled Bikes and Docks
 
 
 ![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/c31e09d3d39226d2e32e0165c0a4350c13a87a49/BigQuery1.png)
@@ -112,6 +111,7 @@ Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlr
 
 ![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/94f0177903c3b99cf4469e5bb596f0b10971a6c5/BigQuery2.png)
 ![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/abe2975fe5264c8403ba7037eb913d8d6ee6b062/BigQuery2A.png)
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/541040a2e6a2759c183c4a0267b505b3f8cd771e/BigQuery2B.png)
 
 
 ### C: System Reliability 
