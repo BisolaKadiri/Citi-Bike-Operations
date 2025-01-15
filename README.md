@@ -79,17 +79,14 @@ Uploaded the CSV file to BigQuery for integration.
 Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlru9y_0kwxBtqR2S0JrYV8/view?usp=sharing
 
 ### A: Station Performance Analysis
-1.Top 10 Busiest Stations by Trip Count:
-
+1.Top 10 Busiest Stations by Trip Count
 2.Total Trips Starting at Each Station
-
 3.Total Trips Ending at Each Station
-
 4.Frequently used stations and how many trip
-
 5.Average Bike and Dock Availability
-
 6.Stations with the Highest Proportion of Disabled Bikes and Docks
+
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/c31e09d3d39226d2e32e0165c0a4350c13a87a49/BigQuery1.png)
 
 
 ### B: Trip Duration and Patterns
