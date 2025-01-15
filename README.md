@@ -110,6 +110,10 @@ Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlr
 6.Most frequent rideable type
 
 
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/94f0177903c3b99cf4469e5bb596f0b10971a6c5/BigQuery2.png)
+
+
+
 ### C: System Reliability 
 1.Stations frequently offline (Is Installed or Is Renting)
 
