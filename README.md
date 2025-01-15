@@ -69,6 +69,9 @@ Key Columns (after conversion):
 - City Bike Trip Dataset:
 Loaded directly to BigQuery.
 
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/fcd9b9844479527b3233dc211c7199bcb0fc4f4f/CitiBikeTrip_Schema.png)
+
+
 - City Bike Station Dataset:
 Loaded the JSON file into Google Colab.
 Converted the JSON file into a CSV file using Python:
