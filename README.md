@@ -119,6 +119,10 @@ Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlr
 
 2.Days not Installed and days not Renting
 
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/bf0f3bb9a9a4efbd8b7d48c5a1727f2421f2cf01/BigQuery3.png)
+
+
+
 Downloaded each of the results as a CSV File. Here is the link to access the SQL Queries Results: https://drive.google.com/drive/folders/16un8KIShmHS8S1O566kap1TORIYONVuE?usp=sharing
 
 ## Visualization in Tableau 
