@@ -1,3 +1,7 @@
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/93d478385003619b05217d8483193111637014b0/Picture1.png)
+
+
+
 # Citi Bike Operations
 This report analyses the operational performance of New York City's bike-sharing service which reveals insights into station performance, user demographics, and trip patterns. It also provides recommendations to optimize bike availability, reduce wait times, and improve overall user experience.
 New York City's bike-sharing service, launched in 2013, has revolutionized the way residents and tourists navigate the city. With over 24,000 bikes and 750 stations across the five boroughs, the system provides an efficient, sustainable, and affordable transportation option. However, as the demand for bike-sharing continues to grow, optimizing its operations becomes crucial to ensure user satisfaction, scalability, and profitability.
