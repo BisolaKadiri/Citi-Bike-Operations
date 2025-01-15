@@ -80,13 +80,20 @@ Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlr
 
 ### A: Station Performance Analysis
 1.Top 10 Busiest Stations by Trip Count
+
 2.Total Trips Starting at Each Station
+
 3.Total Trips Ending at Each Station
+
 4.Frequently used stations and how many trip
+
 5.Average Bike and Dock Availability
+
 6.Stations with the Highest Proportion of Disabled Bikes and Docks
 
+
 ![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/c31e09d3d39226d2e32e0165c0a4350c13a87a49/BigQuery1.png)
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/679096ed949a9076bcb387c1947475d4722e5385/BigQuery1B.png)
 
 
 ### B: Trip Duration and Patterns
