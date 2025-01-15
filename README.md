@@ -80,6 +80,10 @@ Converted the JSON file into a CSV file using Python
 
 Uploaded the CSV file to BigQuery for integration.
 
+![Image_Alt](https://github.com/BisolaKadiri/Citi-Bike-Operations/blob/bcec23453ceb7e958cd3de15e06bf3ecd4ee1aad/CitiBikeStation_Schema.png)
+
+
+
 ## Data Analysis - SQL Queries in BigQuery:
 Link to the SQL Queries  Workbook: https://drive.google.com/file/d/11_96HsejgIlru9y_0kwxBtqR2S0JrYV8/view?usp=sharing
 
